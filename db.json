@@ -1,29 +1,29 @@
 {
   "user": [
-    { "id" : 1 , 
-      "fname": "deepak", 
-     "lname": "kashyap",
-     "age": 24 
-    },
-    { "id" : 2 , 
-      "fname": "mukesh", 
-     "lname": "kumar",
-     "age": 14 
-    },
-    { "id" : 3 , 
-      "fname": "jonny", 
-     "lname": "kd",
-     "age": 24 
-    },
-    { "id" : 4 , 
-      "fname": "fast", 
-     "lname": "slow",
-     "age": 44 
-    },
-    { "id" : 5 , 
-      "fname": "quality", 
-     "lname": "testing",
-     "age": 14 
-    }
-  ]
+            { "id" : 1 , 
+              "fname": "deepak", 
+             "lname": "kashyap",
+             "age": 24 
+            },
+          { "id" : 2 , 
+            "fname": "mukesh", 
+           "lname": "kumar",
+           "age": 14 
+          },
+          { "id" : 3 , 
+            "fname": "jonny", 
+           "lname": "kd",
+           "age": 24 
+          },
+          { "id" : 4 , 
+            "fname": "fast", 
+           "lname": "slow",
+           "age": 44 
+          },
+          { "id" : 5 , 
+            "fname": "quality", 
+           "lname": "testing",
+           "age": 14 
+          }
+         ]
 }
