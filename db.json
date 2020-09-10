@@ -1,5 +1,5 @@
 {
   "user": [
-    { "fname": "deepak", "lname": "kashyap", "age": 24 },
+    { "fname": "deepak", "lname": "kashyap", "age": "24" }
   ]
 }
